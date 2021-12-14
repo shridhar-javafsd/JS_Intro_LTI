@@ -1,15 +1,13 @@
 
-
-
 // delay of 2 seconds 
 
-setTimeout(() => {
+setTimeout(() => 
+{
     console.log('one');
-    callback();
-}, 2000);
-
-
-let callback = () => {
-    console.log('two');
+    fun();
 }
+, 2000);
 
+fun = () => {
+console.log('two');
+}
