@@ -11,3 +11,6 @@ let anotherFun = () => { // 5. function definition
 
 fun(anotherFun); // 1. function call 
 
+fun(() => {
+    console.log('yet another function');
+});
