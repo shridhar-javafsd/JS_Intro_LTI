@@ -26,9 +26,18 @@ let emp = {
         street: 'ECIL road', 
         PIN: 500001,
         city: 'Hyderabad'
-    }
+    },
+    phones : [9876543210, 78978967543]
 };
 
 console.log(emp.ename);
 console.log(emp.address.city);
 console.log(emp);
+
+
+objname = { p1: 'v1', p2 : 'v2'};
+arrayName = [10, 20, 30];
+console.log(arrayName[1]);
+
+
+
