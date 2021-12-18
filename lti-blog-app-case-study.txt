@@ -12,3 +12,5 @@ https://jsonplaceholder.typicode.com/comments
 guide - 
 https://jsonplaceholder.typicode.com/guide/
 
+sample blog - 
+https://wordpress.org/about/philosophy/ 

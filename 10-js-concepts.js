@@ -41,7 +41,19 @@
 	console.log(hikedSalary);
 	console.log(lowSalaries);
 	console.log(lowSalaryOne);
-	console.log(totalPayout);
+	console.log(totalPayout); // 7000 
+
+
+/*
+	teams - 
+	team1 - node 
+	team2 - js es ts 
+	team3 - jsx component etc 
+	team4 - state redux
+	team5 - testing 
+*/
+
+
 
 
 
