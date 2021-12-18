@@ -1,0 +1,14 @@
+lti-blogs-app 
+=============
+
+Create a blog posts app with react to display blog posts. Home page should have functionalities to search blog posts by user and title.
+
+resources - 
+https://jsonplaceholder.typicode.com/users
+https://jsonplaceholder.typicode.com/albums
+https://jsonplaceholder.typicode.com/posts
+https://jsonplaceholder.typicode.com/comments
+
+guide - 
+https://jsonplaceholder.typicode.com/guide/
+
