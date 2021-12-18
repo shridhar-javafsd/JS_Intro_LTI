@@ -29,9 +29,19 @@
 				return salary < 1300;
 				});
 	
+	const lowSalaryOne = salaryList.find((salary) => {
+				return salary < 1300;
+				});
+
+	const totalPayout =  salaryList.reduce((prev, curr) => {
+				return prev + curr;
+				});
+
 	console.log(salaryList);
 	console.log(hikedSalary);
 	console.log(lowSalaries);
+	console.log(lowSalaryOne);
+	console.log(totalPayout);
 
 
 
